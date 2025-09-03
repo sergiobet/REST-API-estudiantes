@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 echo "Instalando dependencias..."
 composer install --no-dev --optimize-autoloader
 
